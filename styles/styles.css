@@ -11,8 +11,18 @@ p {
 }
 
 li {
+  margin-bottom: 10px;
   color: burlywood;
   font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.recipes-list {
+  width: 500px;
+  margin: 0 auto;
+}
+
+.recipes-list li {
+  display: inline;
 }
 
 a {
